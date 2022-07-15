@@ -45,7 +45,7 @@
     "pretty-checkbox-vue": "^1.1.9",
     "prismjs": "^1.23.0",
     "stringify-object": "^3.3.0",
-    "terser": "^5.5.1",
+    "terser": "^5.14.2",
     "utf8-byte-length": "^1.0.4",
     "vue": "^2.6.12",
     "vue-hot-reload-api": "^2.3.3",
